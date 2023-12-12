@@ -1,5 +1,4 @@
 # E-Learning Platform Frontend with Vue.js
-
 Welcome to my E-Learning Platform frontend repository! This project showcases the fundamental features of a modern E-Learning Platform using Vue.js. Whether you're an educator or a learner, my platform provides a seamless and intuitive experience for online education.
 
 ## Features
